@@ -10,7 +10,7 @@ J'ai constaté à travers de nombreuses discussions auprès de mes confrères qu
 
 ## Confidentialité
 Pour respecter l'anonymat, les données traitées ne contiennent pas de données personnelles identifiables.
-Nous ne traitons que le salaire, et le lieu.
+Nous ne traitons que le salaire, et le lieu et la date de déclaration.
 
 ## Notes
 Ceci est un projet personnel, merci d'être indulgent.
