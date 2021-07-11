@@ -12,4 +12,4 @@ J'ai constaté à travers de nombreuses discussions auprès de mes confrères qu
 
 ## Notes
 Ceci est un projet personnel, merci d'être indulgent.
-Pour toute question ou demande de contact, merci d'utiliser le formulaire disponible à /contact.html
+Pour toute question ou demande de contact, merci d'utiliser le [formulaire disponible](/contact.html)
